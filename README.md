@@ -60,9 +60,11 @@ This project focuses on **mental comfort + productivity**, inspired by cozy stud
 ## 📂 Project Structure
 
 - cozy_study_space/
-│
+
 ├── index.html # Main UI
+
 ├── style.css # Cozy theme styles
+
 └── script.js # Timer, modes, sound, storage logic
 
 
