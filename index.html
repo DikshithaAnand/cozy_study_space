@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cozy Study Space</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="day">
+  <div class="room">
+    <h1>🌙 Cozy Study Space</h1>
+    <p class="subtitle">Focus gently. One task at a time.</p>
+
+    <div class="card">
+      <label>Today's One Goal</label>
+      <input type="text" id="goal" placeholder="What will you focus on?">
+    </div>
+
+    <div class="card timer">
+      <span id="time">25:00</span>
+      <div class="buttons">
+        <button onclick="startTimer()">Start</button>
+        <button onclick="pauseTimer()">Pause</button>
+        <button onclick="resetTimer()">Restart</button>
+      </div>
+    </div>
+
+    <div class="card modes">
+      <button onclick="setFocus(25)">25 min</button>
+      <button onclick="setFocus(50)">50 min</button>
+      <button onclick="toggleTheme()">🌙 / ☀️</button>
+      <button onclick="toggleSound()">🌧️</button>
+    </div>
+
+    <p class="footer" id="message">You are doing enough 🌱</p>
+  </div>
+
+  <audio id="rain" loop>
+    <source src="https://cdn.pixabay.com/audio/2022/03/15/audio_6c9b0a0c8c.mp3" type="audio/mpeg">
+  </audio>
+
+  <script src="script.js"></script>
+</body>
+</html>
