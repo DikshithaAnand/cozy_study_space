@@ -78,7 +78,6 @@ No installation or server required.
 
 ---
 
----
 
 ## 🚀 Future Enhancements
 
