@@ -4,6 +4,7 @@
 It encourages mindful studying by allowing only one goal at a time, paired with a cozy timer, ambient sound, and eye-friendly themes.
 
 This project focuses on **mental comfort + productivity**, inspired by cozy study aesthetics.
+**FOCUS TIME**
 
 ---
 
