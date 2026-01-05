@@ -99,7 +99,7 @@ You are free to use, modify, and distribute this project.
 
 ---
 
-## 🙋‍♀️ Author
+### 🙋‍♀️ Author
 
 **Dikshitha Anand**  
 Aspiring Software Engineer | AI & ML Enthusiast  
