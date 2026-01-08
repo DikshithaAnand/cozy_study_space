@@ -77,7 +77,7 @@ This project focuses on **mental comfort + productivity**, inspired by cozy stud
 2. Open `index.html` in any modern web browser
 3. Start your cozy focus session 🌙
 
-No installation or server required.
+No installation or server required
 
 ---
 
