@@ -60,13 +60,17 @@ This project blends **mental well-being with productivity**, inspired by cozy st
 ---
 
 ## 📂 Project Structure
+```bash 
 cozy_study_space/
 │
+
 ├── index.html # Main UI
+
 ├── style.css # Cozy theme styling
+
 └── script.js # Timer, modes, sound & storage logic
 
-
+```
 ---
 
 ## ▶️ How to Run Locally
