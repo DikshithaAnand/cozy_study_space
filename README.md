@@ -60,4 +60,46 @@ This project blends **mental well-being with productivity**, inspired by cozy st
 ---
 
 ## 📂 Project Structure
+cozy_study_space/
+│
+├── index.html # Main UI
+├── style.css # Cozy theme styling
+└── script.js # Timer, modes, sound & storage logic
+
+
+---
+
+## ▶️ How to Run Locally
+
+1. Clone or download this repository  
+2. Open `index.html` in any modern web browser  
+3. Start your cozy focus session 🌙  
+
+✅ No installation required  
+✅ No server required  
+
+---
+
+## 🚀 Future Enhancements
+
+- Lamp glow animation during focus sessions  
+- Plant growth progress indicator  
+- Session history and productivity statistics  
+- Community-based virtual study rooms  
+- Mobile-friendly design or PWA support  
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this project.
+
+---
+
+## 🙋‍♀️ Author
+
+**Dikshitha Anand**  
+Aspiring Software Engineer | AI & ML Enthusiast  
+Passionate about building calm, meaningful, and user-friendly applications 🌱  
 
